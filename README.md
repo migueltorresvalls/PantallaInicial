@@ -2,7 +2,7 @@
 
 En la pantalla inicial hay 3 opciones: iniciar sesión mediante un usuario y contraseña, registrarse y recuperar la contraseña (pendiente de desarrollo).
 
-La aplicación cuenta con conectividad a una base de datos utilizando postgres donde se almacenan todos los usuarios.
+La aplicación cuenta con conectividad a una base de datos en SQL con postgres donde se almacenan todos los usuarios.
 
 
 
